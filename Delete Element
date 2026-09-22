@@ -31,6 +31,10 @@ int main()
     }
     size--;
     cout<<endl;
+نبدأ من الـ //
+index  
+لتوفير الوقت 
+بدل المرور على جميع عناصر المصفوفة
 
 
     cout<<"Array after editing ";
